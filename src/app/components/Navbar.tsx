@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <nav>
 <ul className="flex items-center justify-center gap-2">
-        <li className="font-bold">simple blog - vini.bortoletto</li>
+        <li className="font-bold">Мой блог</li>
     <li>
     </li>
 </ul>
